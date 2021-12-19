@@ -61,10 +61,16 @@ header nav ul li a {
     margin: 10px;
 }
 
+.section-title {
+    margin: 10px;
+    font-family: cursive;
+}
+
 p {
     max-width: 800px;
-    line-height: 01.55vw;
+    line-height: 2vw;
     float: right;
+    font-size: 20px;
 }
 
 .lara-img {
