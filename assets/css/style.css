@@ -57,9 +57,25 @@ header nav ul li a {
 
 /* HEADER / NAVBAR STYLES END */
 
+.about-me {
+    margin: 10px;
+}
+
+p {
+    max-width: 800px;
+    line-height: 01.55vw;
+    float: right;
+}
+
+.lara-img {
+    float: left;
+}
+
+
 /* FOOTER STYLES START */
 
 footer {
+    padding: 20px 35px;
     background-color: var(--primary-color);
     color: var(--secondary-color);
 }
@@ -72,3 +88,6 @@ footer {
 img {
     max-width: 300px;
 }
+
+/* ABOUT ME SECTION */
+
