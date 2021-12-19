@@ -11,9 +11,8 @@
     padding: 0;
 }
 
-body {
-    color: var(--secondary-color);
-}
+
+/* HEADER / NAV BAR STYLES START */
 
 header {
     padding: 20px 35px;
@@ -26,6 +25,7 @@ header {
 }
 
 header h1 {
+    font-family: cursive;
     font-weight: bold;
     margin:  0;
     font-size: 36px;
@@ -53,4 +53,22 @@ header nav ul li a {
     padding: 10px 15px;
     font-weight: lighter;
     font-size: 1.55vw;
+}
+
+/* HEADER / NAVBAR STYLES END */
+
+/* FOOTER STYLES START */
+
+footer {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
+
+/* FOOTER STYLES END */
+
+
+/* IMG STYLING */
+
+img {
+    max-width: 300px;
 }
